@@ -1,4 +1,4 @@
-cabal-version:      1.18
+cabal-version:      1.18.0.0.0.0.1
 name:               unix-time
 version:            0.4.14
 license:            BSD3
